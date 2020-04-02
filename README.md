@@ -1,5 +1,5 @@
 # Amazon-Movie-Star-Ratings-Prediction
-CS506 Kaggle competition.
+This is CS506 Spring 2020 Kaggle competition.
 
 The goal of this competition is to predict star rating associated with user reviews from Amazon Movie Reviews using the available features.
 
