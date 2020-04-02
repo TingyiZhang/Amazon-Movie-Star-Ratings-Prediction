@@ -13,3 +13,6 @@ The models are restricted to classical machine learning models that covered in c
 
 ## Feature Extraction
 - TfidVectorizer to extract reviews in trian.csv
+
+## Results
+The final score is here: https://www.kaggle.com/c/bu-cs506-spring-2020-midterm/leaderboard
