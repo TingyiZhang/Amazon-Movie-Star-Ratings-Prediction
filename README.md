@@ -3,7 +3,7 @@ CS506 Kaggle competition.
 
 The goal of this competition is to predict star rating associated with user reviews from Amazon Movie Reviews using the available features.
 
-The models are restricted to classifiers, deep learning models are not allow for this competition.
+The models are restricted to classical machine learning models that covered in class, deep learning models are not allow for this competition.
 
 ## Model Selection
 - LinearSVC
