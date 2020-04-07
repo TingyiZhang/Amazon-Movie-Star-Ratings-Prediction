@@ -11,6 +11,8 @@ The models are restricted to classical machine learning models that covered in c
 - Logistic Regression
 - Voting Classifier to combine models
 
+The final model takes a little bit long to train(for my machine, approximately 12 hours). So if you want to test it, use a small subset of data first.
+
 ## Feature Extraction
 - TfidVectorizer to extract reviews in trian.csv
 
